@@ -121,12 +121,12 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layamaryjoy&layout=compact&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=layamaryjoy&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=layamaryjoy&show_icons=true&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=layamaryjoy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
